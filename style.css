@@ -19,7 +19,7 @@ align-items: center;
     height: 80%;
     border-left: 20px solid black;
     border-right: 20px solid black;
-    border-top : 20px solid transparent;
+    border-top : 20px  transparent;
     border-bottom: 20px solid  transparent;
     border-radius: 50%;
     animation: myanime 1s infinite linear;
